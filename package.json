@@ -1,0 +1,14 @@
+{
+  "name": "educy",
+  "version": "1.0.0",
+  "description": "automation ui using cypress",
+  "main": "index.js",
+  "author": "fachrydan",
+  "license": "MIT",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.5.1"
+  }
+}
